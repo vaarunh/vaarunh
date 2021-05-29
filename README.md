@@ -5,6 +5,8 @@
 Endeavoring Computer Engineer | WordPress Developer | Digital Marketer | CyberSecurity Enthusiast | Freelancer
 
 <a href="https://varunherlekar.com"><img src="https://image.flaticon.com/icons/png/128/3324/3324799.png" width =35/></a> <a href="https://blog.varunherlekar.com"><img src="https://image.flaticon.com/icons/png/128/179/179312.png" width =35/></a> <a href="mailto:hello@varunherlekar.com"><img src="https://image.flaticon.com/icons/png/128/552/552486.png" width =35/></a>  <a href="https://dribbble.com/varunherlekar"><a href="https://linkedin.com/in/varunherlekar"><img src="https://image.flaticon.com/icons/png/128/145/145807.png" width =35/></a> <a href="https://dribbble.com/varunherlekar"><img src="https://image.flaticon.com/icons/png/128/145/145801.png" width =35/></a> <a href="https://twitter.com/varun.herlekar.9"><img src="https://image.flaticon.com/icons/png/128/145/145812.png" width =35/></a> <a href="https://instagram.com/varunherlekar"><img src="https://image.flaticon.com/icons/png/128/3955/3955024.png" width =35/></a> <a href="https://github.com/varunherlekar"><img src="https://image.flaticon.com/icons/png/128/270/270798.png" width =35/></a>
+
+
 ## About Me <img src="https://media2.giphy.com/media/KYh90pNGHTEEMryoqo/200w.webp?cid=ecf05e47o5mw9ucglbj8t07evi91pwijeuhggklz5t1uo43e&rid=200w.webp&ct=s" width=30>
 <img align='right' src="https://media4.giphy.com/media/hvYgID7Os6JPje3AeE/200w.webp?cid=ecf05e47o5mw9ucglbj8t07evi91pwijeuhggklz5t1uo43e&rid=200w.webp&ct=s" width="230">
 <p><em>*I’m with broad technical skill-set, very strong attention to detail, and 2 years of experience in front-end web development. Able to multitask and juggle multiple pressing projects simultaneously. On top of the latest trends and technologies. Ability to improvise, troubleshoot, take ownership, and most importantly learn new skills on the job.*
@@ -41,19 +43,9 @@ Endeavoring Computer Engineer | WordPress Developer | Digital Marketer | CyberSe
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=varunherlekar&show_icons=true&theme=tokyonight" />
 </a>
 
+## A Little More About Me 👨‍💻
+***With npm installed, just type***
 
-
-<!--
-**varunherlekar/varunherlekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    > npx varunh
+    or
+    > npm i varunh
