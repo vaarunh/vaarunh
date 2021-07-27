@@ -49,3 +49,8 @@ Endeavoring Computer Engineer | WordPress Developer | Digital Marketer | CyberSe
     > npx varunh
     or
     > npm i varunh
+<br>
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
+</p>
