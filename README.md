@@ -52,5 +52,5 @@ Endeavoring Computer Engineer | WordPress Developer | Digital Marketer | CyberSe
 <br>
 <p align="center"> 
   Visitors count<br>
-  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
+  <img src="https://profile-counter.glitch.me/varunherlekar/count.svg" />
 </p>
