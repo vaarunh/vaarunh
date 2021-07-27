@@ -49,6 +49,9 @@ Endeavoring Computer Engineer | WordPress Developer | Digital Marketer | CyberSe
     > npx varunh
     or
     > npm i varunh
+
+## Watch Snake Eating My Contributions 🐍
+![snake gif](https://github.com/varunherlekar/varunherlekar/blob/output/github-contribution-grid-snake.gif)
 <br>
 <p align="center"> 
   Visitors count<br>
