@@ -29,18 +29,15 @@
 
 <hr/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaarunh&" alt="vaarunh" /></p>
-<hr/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaarunh&label=Profile%20views&color=0e75b6&style=flat" alt="vaarunh" /> </p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vaarunh&theme=react&hide_border=false)<br/>
 
-
-### ✍️ Random Dev Quote
+### ✍️ Have A good Day :)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+### 😂 Be Happy :P
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 --
