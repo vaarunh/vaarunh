@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **ReactJs, TailwindCSS, VueJs etc.**
 
-- 👨‍💻 All of my projects are available at [https://varunherlekar.com](varunherlekar.com)
+- 👨‍💻 All of my projects are available at [varunherlekar.com](https://varunherlekar.com)
 
 - 💬 Ask me about **Web Dev, Digital Marketing, WordPress, Cloud Computing**
 
 - 📫 How to reach me **hello@varunherlekar.com**
 
-- 📄 Know about my experiences [https://varunherlekar.com](varunherlekar.com)
+- 📄 Know about my experiences [varunherlekar.com](https://varunherlekar.com)
 
 - ⚡ Fun fact **I am the "do" in "weirdo"**
 <hr/>
