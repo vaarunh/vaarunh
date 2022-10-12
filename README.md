@@ -1,59 +1,38 @@
-![enter image description here](https://github.com/varunherlekar/varunherlekar/blob/main/1618136960807.jpg?raw=true)
-## Hello World, <a href="https://varunherlekar.com">I am Varun Herlekar </a> <img src="https://c.tenor.com/lNtmoshuUI8AAAAj/bahroo-hacker.gif" width="40px">
+<h1 align="center">Hi 👋, I'm Varun Herlekar</h1>
+<h3 align="center">A Endeavouring Computer Engineer and Web Build Freelancer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaarunh&label=Profile%20views&color=0e75b6&style=flat" alt="vaarunh" /> </p>
 
 
-Endeavoring Computer Engineer | WordPress Developer | Digital Marketer | CyberSecurity Enthusiast | Freelancer
+- 🔭 I’m currently working on [React Based News App](https://github.com/vaarunh/newsapp)
 
-<a href="https://varunherlekar.com"><img src="https://image.flaticon.com/icons/png/128/3324/3324799.png" width =35/></a> <a href="https://blog.varunherlekar.com"><img src="https://image.flaticon.com/icons/png/128/179/179312.png" width =35/></a> <a href="mailto:hello@varunherlekar.com"><img src="https://image.flaticon.com/icons/png/128/552/552486.png" width =35/></a>  <a href="https://dribbble.com/varunherlekar"><a href="https://linkedin.com/in/varunherlekar"><img src="https://image.flaticon.com/icons/png/128/145/145807.png" width =35/></a> <a href="https://dribbble.com/varunherlekar"><img src="https://image.flaticon.com/icons/png/128/145/145801.png" width =35/></a> <a href="https://twitter.com/varun.herlekar.9"><img src="https://image.flaticon.com/icons/png/128/145/145812.png" width =35/></a> <a href="https://instagram.com/the_geekynerd"><img src="https://image.flaticon.com/icons/png/128/3955/3955024.png" width =35/></a> <a href="https://github.com/varunherlekar"><img src="https://image.flaticon.com/icons/png/128/270/270798.png" width =35/></a>
+- 🌱 I’m currently learning **ReactJs, TailwindCSS, VueJs etc.**
 
+- 👨‍💻 All of my projects are available at [varunherlekar.com](varunherlekar.com)
 
-## About Me <img src="https://media2.giphy.com/media/KYh90pNGHTEEMryoqo/200w.webp?cid=ecf05e47o5mw9ucglbj8t07evi91pwijeuhggklz5t1uo43e&rid=200w.webp&ct=s" width=30>
-<img align='right' src="https://media4.giphy.com/media/hvYgID7Os6JPje3AeE/200w.webp?cid=ecf05e47o5mw9ucglbj8t07evi91pwijeuhggklz5t1uo43e&rid=200w.webp&ct=s" width="230">
-<p><em>*I’m with broad technical skill-set, very strong attention to detail, and 2 years of experience in front-end web development. Able to multitask and juggle multiple pressing projects simultaneously. On top of the latest trends and technologies. Ability to improvise, troubleshoot, take ownership, and most importantly learn new skills on the job.*
-</em></p>
+- 💬 Ask me about **Web Dev, Digital Marketing, WordPress, Cloud Computing**
 
-![](https://img.shields.io/badge/-informational?style=for-the-badge&logo=html5&logoColor=white&color=blue) ![](https://img.shields.io/badge/-informational?style=for-the-badge&logo=google-analytics&logoColor=white&color=blue) ![](https://img.shields.io/badge/-informational?style=for-the-badge&logo=instagram&logoColor=white&color=blue) ![](https://img.shields.io/badge/-informational?style=for-the-badge&logo=facebook&logoColor=white&color=blue) ![](https://img.shields.io/badge/-informational?style=for-the-badge&logo=wordpress&logoColor=white&color=blue) ![](https://img.shields.io/badge/-informational?style=for-the-badge&logo=css3&logoColor=white&color=blue) ![](https://img.shields.io/badge/-informational?style=for-the-badge&logo=wix&logoColor=white&color=blue) ![](https://img.shields.io/badge/-informational?style=for-the-badge&logo=adobe-photoshop&logoColor=white&color=blue) ![](https://img.shields.io/badge/-informational?style=for-the-badge&logo=adobe-lightroom&logoColor=white&color=blue) ![](https://img.shields.io/badge/-informational?style=for-the-badge&logo=kali-linux&logoColor=white&color=blue) ![](https://img.shields.io/badge/-informational?style=for-the-badge&logo=linux&logoColor=white&color=blue) ![](https://img.shields.io/badge/-informational?style=for-the-badge&logo=google-cloud&logoColor=white&color=blue)
+- 📫 How to reach me **hello@varunherlekar.com**
 
-## Key Skills <img src="https://media1.giphy.com/media/UVG0BN8TOMKkPOJS6e/200w.webp?cid=ecf05e47ditbtomuh674pnx9pbwfbwj2q1c13qj8gvja5h5q&rid=200w.webp&ct=s" width=30>
+- 📄 Know about my experiences [varunherlekar.com](varunherlekar.com)
 
-## Web Skills <img src="https://media2.giphy.com/media/giyyP5sQWfe7TJ2NVB/200w.webp?cid=ecf05e472c5r9zkcmpquwlm187oh205lqp9lga4gylzg9b68&rid=200w.webp&ct=s" width=30>
-![](https://img.shields.io/badge/PHP-informational?style=for-the-badge&logo=php&logoColor=white&color=black) ![](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=brown) ![](https://img.shields.io/badge/HTML5-informational?style=for-the-badge&logo=html5&logoColor=white&color=red) ![](https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=css3&logoColor=white&color=yellow) ![](https://img.shields.io/badge/WIX-informational?style=for-the-badge&logo=wix&logoColor=white&color=grey) ![](https://img.shields.io/badge/WordPress-informational?style=for-the-badge&logo=wordpress&logoColor=white&color=blue) ![](https://img.shields.io/badge/Web_Analytics-informational?style=for-the-badge&logo=google-analytics&logoColor=white&color=orange)    
+- ⚡ Fun fact **I am the "do" in "weirdo"**
 
-## Fundamental Skills <img src="https://media2.giphy.com/media/giyyP5sQWfe7TJ2NVB/200w.webp?cid=ecf05e472c5r9zkcmpquwlm187oh205lqp9lga4gylzg9b68&rid=200w.webp&ct=s" width=30>
-![](https://img.shields.io/badge/GSuite-informational?style=for-the-badge&logo=google&logoColor=black&color=lightblue) ![](https://img.shields.io/badge/iWork-informational?style=for-the-badge&logo=apple&logoColor=black&color=lightgrey) ![](https://img.shields.io/badge/MS_Office_365-informational?style=for-the-badge&logo=microsoft-office&logoColor=black&color=pink) ![](https://img.shields.io/badge/Trello-informational?style=for-the-badge&logo=trello&logoColor=black&color=lightgreen) ![](https://img.shields.io/badge/Slack-informational?style=for-the-badge&logo=slack&logoColor=white&color=indigo)
-
-
-## Other Skills <img src="https://media4.giphy.com/media/MXoyvLVaXqYbi6KUhu/200w.webp?cid=ecf05e479hefbg8u4sjmaflpqm7689gfva78g24yteweezqf&rid=200w.webp&ct=s" width=30>
-![](https://img.shields.io/badge/Adobe_Photoshop-informational?style=for-the-badge&logo=adobe-photoshop&logoColor=white&color=blue) ![](https://img.shields.io/badge/Adobe_Lightroom-informational?style=for-the-badge&logo=adobe-lightroom&logoColor=white&color=green) ![](https://img.shields.io/badge/Adobe_Illustrator-informational?style=for-the-badge&logo=adobe-illustrator&logoColor=white&color=purple)  ![](https://img.shields.io/badge/Kali_Linux-informational?style=for-the-badge&logo=kali-linux&logoColor=white&color=darkblue) ![](https://img.shields.io/badge/Figma-informational?style=for-the-badge&logo=figma&logoColor=white&color=red) ![](https://img.shields.io/badge/Adobe_XD-informational?style=for-the-badge&logo=adobe-xd&logoColor=white&color=orange) ![](https://img.shields.io/badge/WooCommerce-informational?style=for-the-badge&logo=woo&logoColor=white&color=purple) ![](https://img.shields.io/badge/Angular-informational?style=for-the-badge&logo=angular&logoColor=white&color=darkred) ![](https://img.shields.io/badge/Shopify-informational?style=for-the-badge&logo=shopify&logoColor=white&color=darkgreen) ![](https://img.shields.io/badge/Canva-informational?style=for-the-badge&logo=canva&logoColor=white&color=blue) ![](https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=java&logoColor=white&color=orange) ![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=java&logoColor=white&color=#376fa1) ![](https://img.shields.io/badge/C_Language-informational?style=for-the-badge&logo=c&logoColor=white&color=hotpink) ![](https://img.shields.io/badge/Google_Ads-informational?style=for-the-badge&logo=google-ads&logoColor=white&color=gold) ![](https://img.shields.io/badge/Google_Cloud-informational?style=for-the-badge&logo=google-cloud&logoColor=white&color=LimeGreen) ![](https://img.shields.io/badge/Amazon_AWS-informational?style=for-the-badge&logo=amazon-aws&logoColor=white&color=orangered)
-
-
-
-## GitHub Trophies <img src="https://media3.giphy.com/media/9JgeKmB81Xhd88fmQT/200.webp?cid=ecf05e47je5oxu0mb4bm53vvmhn50nvc4ebzt3viffcf8x7k&rid=200.webp&ct=s" width=30/>
-
-![trophy](https://github-profile-trophy.vercel.app/?username=varunherlekar&theme=radical)
-
-
-## GitHub Stats <img src="https://media3.giphy.com/media/jUQHpQ3UjFBfRlQekP/200w.webp?cid=ecf05e47whitadu2u8gzkqgl0xbdoao39lyq0kw7ohtvuetj&rid=200w.webp&ct=s" width=30>
-
-
-<a href="https://github.com/varunherlekar/github-readme-stats">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunherlekar&layout=compact&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/varunherlekar/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=varunherlekar&show_icons=true&theme=tokyonight" />
-</a>
-
-## A Little More About Me 👨‍💻
-***With npm installed, just type***
-
-    > npx varunh
-    or
-    > npm i varunh
-
-## Watch Snake Eating My Contributions 🐍
-![snake gif](https://github.com/varunherlekar/varunherlekar/blob/output/github-contribution-grid-snake.gif)
-<br>
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/varunherlekar/count.svg" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/varunherlekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varunherlekar" height="30" width="40" /></a>
+<a href="https://instagram.com/vaarunh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaarunh" height="30" width="40" /></a>
+<a href="https://dribbble.com/varunherlekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="varunherlekar" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/varunherlekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="varunherlekar" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaarunh&show_icons=true&locale=en&layout=compact" alt="vaarunh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaarunh&show_icons=true&locale=en" alt="vaarunh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaarunh&" alt="vaarunh" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaarunh" alt="vaarunh" /></a> </p>
