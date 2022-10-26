@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Varun Herlekar</h1>
 <h3 align="center">A Endeavouring Computer Engineer and Freelance Web Developer </h3>
-<br/>
 
+
+<br/>
 
 ![](https://www.holopin.me/vaarunh)
 - 🔭 I’m currently working on [React Based News App](https://github.com/vaarunh/newsapp)
@@ -39,8 +40,5 @@
 ### ✍️ Have A good Day :)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Be Happy :P
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
---
 
