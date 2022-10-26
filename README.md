@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Varun Herlekar</h1>
+<h6 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=2000&color=74F739&width=570&height=70&lines=Hello+%E2%9C%A8+I+am+Varun+Herlekar" alt="Typing SVG" /></a>
+</h6>
 <h3 align="center">A Endeavouring Computer Engineer and Freelance Web Developer </h3>
 
-
 <br/>
+<hr/>
 
 ![](https://www.holopin.me/vaarunh)
 - 🔭 I’m currently working on [React Based News App](https://github.com/vaarunh/newsapp)
