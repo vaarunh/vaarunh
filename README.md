@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Varun Herlekar</h1>
 <h3 align="center">A Endeavouring Computer Engineer and Freelance Web Developer </h3>
 <br/>
-[![@vaarunh's Holopin board](https://holopin.me/vaarunh)](https://holopin.io/@vaarunh)
+![](https://holopin.io/@vaarunh)
+
 
 
 - 🔭 I’m currently working on [React Based News App](https://github.com/vaarunh/newsapp)
