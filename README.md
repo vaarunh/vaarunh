@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Varun Herlekar</h1>
 <h3 align="center">A Endeavouring Computer Engineer and Freelance Web Developer </h3>
 <br/>
-![](https://holopin.io/@vaarunh)
 
 
-
+![](https://www.holopin.me/vaarunh)
 - 🔭 I’m currently working on [React Based News App](https://github.com/vaarunh/newsapp)
 
 - 🌱 I’m currently learning **ReactJs, TailwindCSS, VueJs etc.**
